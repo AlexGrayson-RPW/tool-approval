@@ -32,5 +32,5 @@ AA58D09801-M1107==  ##Karbon
 E305A2FB3C-M1107==  ##Sychie
 
 ##TOOL TESTER
-ALEXRPW-1-0-2-8-4-u-0-_-a-2-8-4 ##frantiska
+6FBDCDFC5D-M1107== ##frantiska
 
